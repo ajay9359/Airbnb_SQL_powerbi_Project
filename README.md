@@ -28,3 +28,11 @@ There are some inactive listings in the dataset.  considered inactive listings w
 
 ![Screenshot (879)](https://github.com/ajay9359/Resume_BI/assets/153490133/87e2021a-cad8-487b-aefb-532a35281a69)
 
+There are 9,051 distinct hosts
+
+![Screenshot (880)](https://github.com/ajay9359/Airbnb_SQL_powerbi_Project/assets/153490133/07d2d16c-5026-4553-a16f-78183dd8e54d)
+
+
+Which areas in Austin, Texas have the highest number of Airbnb units, and what is the price range in those areas?
+
+![Screenshot (881)](https://github.com/ajay9359/Airbnb_SQL_powerbi_Project/assets/153490133/3c5417cb-c9b6-474e-9cb7-1f3f5d82d9a8)
