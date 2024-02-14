@@ -35,7 +35,7 @@ There are 9,051 distinct hosts
 
 ## Which areas in Austin, Texas have the highest number of Airbnb units, and what is the price range in those areas?
 
-There are 23 areas with Airbnb listings in WA, and the average price is $281.
+There are 23 areas with Airbnb listings in Austin, and the average price is $281.
 
 ![Screenshot (881)](https://github.com/ajay9359/Airbnb_SQL_powerbi_Project/assets/153490133/3c5417cb-c9b6-474e-9cb7-1f3f5d82d9a8)
 
@@ -59,7 +59,7 @@ findings of this project:
 
 - There are 14,234  listings in Austin,Texas and 9,051 distinct hosts. However, there are more hosts because few hosts are property management agencies.
 
-- Airbnb is listed in 23 areas in WA. The TOP 5 are     Austin, Texas, United States
+- Airbnb is listed in 23 areas in Austin. The TOP 5 are     Austin, Texas, United States
     Del Valle, Texas, United States
     Lakeway, Texas, United States
     West Lake Hills, Texas, United States
